@@ -1,3 +1,5 @@
+add_executable(test_1 test1.cpp)
+add_test(test_1 test_1)
 
 add_custom_target(memcheck
     COMMAND ${CMAKE_CTEST_COMMAND} 
