@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['cpp_2dtemplate_2drepo_0',['cpp-template-repo',['../index.html',1,'']]]
+  ['linear_20algebra_20toolbox_0',['Linear Algebra ToolBox',['../index.html',1,'']]]
 ];
