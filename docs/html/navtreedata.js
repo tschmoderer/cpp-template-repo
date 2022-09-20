@@ -25,20 +25,27 @@
 var NAVTREE =
 [
   [ "CPP Template Project", "index.html", [
-    [ "Linear Algebra ToolBox", "index.html", [
-      [ "Build sources", "index.html#autotoc_md1", [
-        [ "Windows", "index.html#autotoc_md2", null ],
-        [ "Unix systems", "index.html#autotoc_md3", null ],
-        [ "MacOs", "index.html#autotoc_md4", null ]
+    [ "C++ Project Template Repositry", "index.html", [
+      [ "Project Structure", "index.html#autotoc_md1", null ],
+      [ "Github Repository Settings", "index.html#autotoc_md2", null ],
+      [ "Build sources", "index.html#autotoc_md3", [
+        [ "Windows", "index.html#autotoc_md4", null ],
+        [ "Unix systems", "index.html#autotoc_md5", null ],
+        [ "MacOs", "index.html#autotoc_md6", null ]
       ] ],
-      [ "Crédits", "index.html#autotoc_md5", null ]
+      [ "Documentation", "index.html#autotoc_md7", null ],
+      [ "Using Template", "index.html#autotoc_md8", null ],
+      [ "Crédits", "index.html#autotoc_md9", null ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+"dir_68267d1309a1af8e8297ef4c3efbcdba.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

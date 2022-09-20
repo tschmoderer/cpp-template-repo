@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['linear_20algebra_20toolbox_0',['Linear Algebra ToolBox',['../index.html',1,'']]]
+  ['c_2b_2b_20project_20template_20repositry_0',['C++ Project Template Repositry',['../index.html',1,'']]]
 ];
