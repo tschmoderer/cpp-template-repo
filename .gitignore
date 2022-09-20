@@ -31,6 +31,8 @@
 *.out
 *.app
 
-# User defined
 build/
-.vscode/
+
+docs/html/
+
+docs/doxyfile.in
