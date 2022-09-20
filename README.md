@@ -1,8 +1,11 @@
-# Linear Algebra ToolBox
+# C++ Project Template Repositry
 
-[![language-cpp](https://img.shields.io/badge/language-C%2B%2B-blue)](https://github.com/tschmoderer/cpp-linear-algebra-toolbox/search?l=c%2B%2B&type=code)  [![build](https://github.com/tschmoderer/cpp-linear-algebra-toolbox/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/tschmoderer/cpp-linear-algebra-toolbox/actions/workflows/cmake.yml) [![docs](https://github.com/tschmoderer/cpp-linear-algebra-toolbox/actions/workflows/doxygen.yml/badge.svg?branch=main)](https://tschmoderer.github.io/cpp-linear-algebra-toolbox/html/index.html) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/tschmoderer/cpp-linear-algebra-toolbox/blob/master/LICENSE)
+[![language-cpp](https://img.shields.io/badge/language-C%2B%2B-blue)](https://github.com/tschmoderer/cpp-template-repo/search?l=c%2B%2B&type=code)  [![build](https://github.com/tschmoderer/cpp-template-repo/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/tschmoderer/cpp-template-repo/actions/workflows/cmake.yml) [![docs](https://github.com/tschmoderer/cpp-template-repo/actions/workflows/doxygen.yml/badge.svg?branch=main)](https://tschmoderer.github.io/cpp-template-repo/html/index.html) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/tschmoderer/cpp-template-repo/blob/master/LICENSE)
 
-A template repository for C++ projects
+
+## Project Structure
+
+## Github Repository Settings
 
 ## Build sources 
 
@@ -24,6 +27,14 @@ make test
 
 ### MacOs
 To Be Completed
+
+## Documentation
+
+The documentation is automatically generated from source files with the doxygen language.
+
+## Using Template
+
+Use the template with all branches.
 
 ## Crédits
 
