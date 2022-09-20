@@ -1,4 +1,4 @@
-# C++ Project Template Repositry
+# C++ Project Template Repository
 
 [![language-cpp](https://img.shields.io/badge/language-C%2B%2B-blue)](https://github.com/tschmoderer/cpp-template-repo/search?l=c%2B%2B&type=code)  [![build](https://github.com/tschmoderer/cpp-template-repo/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/tschmoderer/cpp-template-repo/actions/workflows/cmake.yml) [![docs](https://github.com/tschmoderer/cpp-template-repo/actions/workflows/doxygen.yml/badge.svg?branch=main)](https://tschmoderer.github.io/cpp-template-repo/html/index.html) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/tschmoderer/cpp-template-repo/blob/master/LICENSE)
 
